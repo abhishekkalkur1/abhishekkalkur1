@@ -1,5 +1,3 @@
-#Demo
-
 - 👋 Hi, I’m @abhishekkalkur1
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning MCA at Ramaiah Institute of Technology
